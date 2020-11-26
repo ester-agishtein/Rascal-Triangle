@@ -1,0 +1,6 @@
+out/
+.gradle/
+build/*
+!build/libs
+.idea/
+
